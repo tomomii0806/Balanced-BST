@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Tomomi/CLionProjects/CSS343/Project2/bintree.h
+nodedata.h
+/Users/Tomomi/CLionProjects/CSS343/Project2/nodedata.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project2/main.cpp
+bintree.h
+/Users/Tomomi/CLionProjects/CSS343/Project2/bintree.h
+nodedata.h
+/Users/Tomomi/CLionProjects/CSS343/Project2/nodedata.h
+nodedata.cpp
+/Users/Tomomi/CLionProjects/CSS343/Project2/nodedata.cpp
+fstream
+-
+iostream
+-
+cassert
+-
+
+/Users/Tomomi/CLionProjects/CSS343/Project2/nodedata.cpp
+nodedata.h
+/Users/Tomomi/CLionProjects/CSS343/Project2/nodedata.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project2/nodedata.h
+string
+-
+iostream
+-
+fstream
+-
+

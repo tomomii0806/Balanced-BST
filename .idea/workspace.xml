@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Project2" targetName="Project2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b5849c3-6a38-4a7b-a460-a8f491ffea8c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1WsSPKkIlcNiZokCUjJin36VR6A" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Project2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project2" TARGET_NAME="Project2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project2" RUN_TARGET_NAME="Project2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b5849c3-6a38-4a7b-a460-a8f491ffea8c" name="Default Changelist" comment="" />
+      <created>1579936783858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579936783858</updated>
+      <workItem from="1579936789717" duration="2898000" />
+      <workItem from="1579939901341" duration="5562000" />
+      <workItem from="1579998667965" duration="17825000" />
+      <workItem from="1580156024925" duration="1657000" />
+      <workItem from="1580157800111" duration="7114000" />
+      <workItem from="1580165452865" duration="1000" />
+      <workItem from="1580165643825" duration="307000" />
+      <workItem from="1580166302420" duration="989000" />
+      <workItem from="1580167722746" duration="6429000" />
+      <workItem from="1580250584753" duration="500000" />
+      <workItem from="1580251198358" duration="3546000" />
+      <workItem from="1580262522254" duration="1248000" />
+      <workItem from="1580374035456" duration="1161000" />
+      <workItem from="1580439596108" duration="2061000" />
+      <workItem from="1580453396263" duration="1863000" />
+      <workItem from="1580524422951" duration="9788000" />
+      <workItem from="1581151278714" duration="19000" />
+      <workItem from="1581151508805" duration="14000" />
+      <workItem from="1581418594144" duration="38000" />
+      <workItem from="1581835099670" duration="6000" />
+      <workItem from="1583567745946" duration="163000" />
+      <workItem from="1583570464390" duration="56000" />
+      <workItem from="1583570544565" duration="23000" />
+      <workItem from="1583653027089" duration="61000" />
+      <workItem from="1583717095507" duration="212000" />
+      <workItem from="1583723512715" duration="755000" />
+      <workItem from="1583726870686" duration="51000" />
+      <workItem from="1584698478351" duration="282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>80</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
